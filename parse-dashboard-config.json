@@ -10,7 +10,6 @@
   "users": [
     {
       "user":"grantges",
-      "pass":"t1m1fl1",
-      "apps": [{"appId": "f77906ce-7daf-474d-8156-ff3cac0f3b35"}]
+      "pass":"t1m1fl1"
     }
 }
